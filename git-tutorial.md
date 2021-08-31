@@ -7,7 +7,7 @@
 -  Three main states of files in Git
    - Committed: saved securely
    - Modified: changed, but not saved
-   - Staged: changed verstion has yet to be committed
+   - Staged: changed version has yet to be committed
 - Git stash is a good interim function for when you are not ready to commit, but dont wanna lose work
    - git stash apply to retrieve
 - auto name server "origin"

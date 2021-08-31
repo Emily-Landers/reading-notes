@@ -5,3 +5,4 @@
 - [Reading 2](markdown.md) 
 - [Reading 3](TheCodersComputer.md)
 - [Reading 4](git-tutorial.md) 
+- [Reading 5](html-structure.md) 

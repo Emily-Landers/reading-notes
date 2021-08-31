@@ -27,4 +27,22 @@ as long as echo outcome ends in bash it is good
 ## Commands 
 **pwd** = Print Working Directory 
 - reminds you where you are in the terminal
+#### Square bracket items are optional for the command
+## Linux File systems is a Heirarchical Structure
+- Root Directory is at the top 
+- denoted with a single slash: /
+**cd** = Change Directory
+**ls** = List 
+## Files
+- Everything on Linux is stored in files
+##### File.exe = an executable file
+##### File.tx = a plain text file
+##### File.png, File.jpg, File.gif = an image
+file[path] to find out the file type
+Spaces separate items
+Backslash is an escape character
+ls-a = list the contents of a directory inc hidden
+Linux is case sensitive
+
+
 

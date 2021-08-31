@@ -1,4 +1,5 @@
 # The Coders Computer
+[Home](Home.md)
 ## What Text Editor is Right for You?
 Deciding on the right text editor is not a one size fits all process, because everyone does things a little bit differently. 
 Choosing the right text editor for you is important because overall using the one that suits you best is going to save you a lot of time and frustration. 

@@ -1,5 +1,6 @@
 # Code 102 Reading
 ### [Emily Landers](github.com/emily-landers)
+[Home](Home.md) 
 #### **Growth mindset means that you think in terms of bettering yourself, and you see failure as not necessarily a bad thing, but as an opportunity to learn and grow.**
 ## To maintain a growth mindset I will remind myself: 
 - Failure is a part of learning 📚

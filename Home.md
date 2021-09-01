@@ -7,3 +7,4 @@
 - [Reading 4](git-tutorial.md) 
 - [Reading 5](html-structure.md) 
 - [Reading 6](css.md) 
+- [Reading 7](javascript.md) 

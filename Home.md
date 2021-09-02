@@ -1,10 +1,11 @@
 # Reading Notes 
 **This is where I will keep my notes for class**
 ## Table of Contents
-- [Reading 1](README.md) 
-- [Reading 2](markdown.md) 
-- [Reading 3](TheCodersComputer.md)
-- [Reading 4](git-tutorial.md) 
-- [Reading 5](html-structure.md) 
-- [Reading 6](css.md) 
-- [Reading 7](javascript.md) 
+- [Readme](README.md) 
+- [Reading 1](markdown.md) 
+- [Reading 2](TheCodersComputer.md)
+- [Reading 3](git-tutorial.md) 
+- [Reading 4](html-structure.md) 
+- [Reading 5](css.md) 
+- [Reading 6](javascript.md)
+- [Reading 7](javascript2.md) 

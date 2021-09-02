@@ -8,4 +8,5 @@
 - [Reading 4](html-structure.md) 
 - [Reading 5](css.md) 
 - [Reading 6](javascript.md)
-- [Reading 7](javascript2.md) 
+- [Reading 7](javascript2.md)
+- [Reading 8](javascript3.md) 

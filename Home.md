@@ -12,7 +12,7 @@
 - [Reading 8](javascript3.md) 
 # Code 201 Reading notes
 ## Table of Contents for Code 201
-- [Reading]
+- [Reading 1](class-02.md) 
 - [Reading]
 - [Reading]
 - [Reading]

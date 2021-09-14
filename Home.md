@@ -1,6 +1,6 @@
 # Reading Notes 
 **This is where I will keep my notes for class**
-## Table of Contents
+## Table of Contents for Code 102
 - [Readme](README.md) 
 - [Reading 1](markdown.md) 
 - [Reading 2](TheCodersComputer.md)
@@ -10,3 +10,20 @@
 - [Reading 6](javascript.md)
 - [Reading 7](javascript2.md)
 - [Reading 8](javascript3.md) 
+# Code 201 Reading notes
+## Table of Contents for Code 201
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]
+- [Reading]

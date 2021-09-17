@@ -14,7 +14,7 @@
 ## Table of Contents for Code 201
 - [Reading 1](class-02.md) 
 - [Reading 2](class-03.md)
-- [Reading]
+- [Reading 3](class-04.md)
 - [Reading]
 - [Reading]
 - [Reading]

@@ -47,5 +47,54 @@
     - position:static
     - used to create default html flow
     - you can specify width 
-
-
+- **Relative Positioning**
+    - position:relative
+    - moves the element in relation to where it would have been in normal flow
+- **Absolute Positioning**
+    - position:absolute
+    - when the position property is given a value of absolute the box is taken out of normal flow and no longer affects the position of other elements on the page
+- **Fixed Positioning**
+    - position:fixed
+    - requires the position property to have a position of fixed 
+    - positions the element in relation to the browser window
+    - when scrolling it will stay in the exact same place
+- **Overlapping Elements**
+    - z-index
+    - used to control which element sits on top
+    - value is a number, the higher the number the closer the element is to the front
+- **Floating Elements**
+    - float
+    - allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible 
+    - anything else in the element will flow arount the floated element
+    - should be used with width to show how whide the element should be 
+    - can be used to place elements side by side 
+    height can affect where the floating elements sit
+- **Clearing Floats**
+    - clear
+    - allows you to say that no element (within the same containing element) should touch the left or right hand sides of a box 
+    - can take left, right, both, or none for value
+- **Parents of Floated Elements Problems**
+    - If a containing element only contains floating elements some browsers will treat it as if it is zero pixels
+- **Sloution**
+    - add an extra element after the last floated box to fix this problem 
+    - alternatively in CSS you can apply the overflow property with a value of auto and set the width to 100%
+- **Creating multi-column layouts with floats**
+    - use the < div > element to represent each column 
+    - use widts, float, and margin to position the columns
+#### Screen Sizes
+- **fixed width layout designs do not change size as the user increases or decreases the size of their browser window**
+- measurements given in pixels 
+- pixel values are accurate 
+- more control over appearance 
+- control over the length of lines of text regardless of the size of the users window 
+- img size will always remain the same 
+- can cause big gaps around the edges of the page
+- if the users screen is higher resolution than the creators the page can look smaller and text can be harder to read 
+- design works best on devices that have similar resolution to the designers 
+- often takes up more vertical space than a liquid layout with the same content
+- **Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window**
+- tend to use percentages
+- pages expand to fill the entire browser window so there are no spaces around the pages
+- page can contract to fit a smaller screen 
+- tolerant of user settings 
+- 

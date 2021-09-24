@@ -37,4 +37,16 @@
 - separated by an equals sign
 - ```<p lang="en-us">paragraph in English</p>```
 - the en-us is the value and the land is the name
-- HTML 5 
+#### Extra Markup
+- There are some characters that are reserved for by html code (left and right angled brackets for example)
+- escape characters if you want them to show up in your browser
+#### HTML5 Layout
+- new html5 elements indicate the purpos of different parts of a webpage and help to describe its structure
+- new elements provide cleaner code
+- old browsers dont understand html5 and need to be told what needs to be a block  level element
+#### Process and Design
+- Wireframes are a simple sketch of th key information a page will contain
+- site maps allow you to plan the structure of a site
+## The ABCs of Programming
+- once you know the goal of your script you can work out the individual tasks needed to achieve it
+- individual tasks may be broken down into a sequence of steps

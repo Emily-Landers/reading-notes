@@ -26,4 +26,5 @@
 - [Reading 12](class-12.md)
 - [Reading 13](class-13.md)
 - [Reading 14](class-14.md)
+- [Reading 14b](class-14b.md)
 - [Reading 15](class-15.md)

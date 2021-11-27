@@ -1,4 +1,9 @@
-# Code 102 Reading
+# Reading Notes
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development
 ### [Emily Landers](github.com/emily-landers)
 [Home](Home.md) 
 #### **Growth mindset means that you think in terms of bettering yourself, and you see failure as not necessarily a bad thing, but as an opportunity to learn and grow.**

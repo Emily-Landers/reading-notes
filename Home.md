@@ -44,3 +44,4 @@
 - [Reading 3](301/class3.md)
 - [Reading 4](301/class4.md)
 - [Reading 5](301/class5.md)
+- [Reading 6](301/class6.md)

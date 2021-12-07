@@ -45,3 +45,4 @@
 - [Reading 4](301/class4.md)
 - [Reading 5](301/class5.md)
 - [Reading 6](301/class6.md)
+- [Reading 7](301/class7.md)

@@ -1,0 +1,24 @@
+# APIs
+
+- What does REST stand for?
+    - Representational State Transfer
+- REST APIs are designed around a ____.
+    - resource
+- What is an identifer of a resource?  Give an example.
+    - a URI ex: ```(https://adventure-works.com/orders/1)```
+- What are the most common HTTP verbs?
+    - GET, POST, PUT, PATCH, and DELETE.
+- What should the URIs be based on?
+    - nouns (the resource)
+- Give an example of a good URI.
+    - ```https://adventure-works.com/orders ```
+- What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+    - Chatty APIs have a lot of requests at any given time, its a bad thing.
+- What status code does a successful GET request return?
+    - 200
+- What status code does an unsuccessful GET request return?
+    - 404
+- What status code does a successful POST request return?
+    - 201
+- What status code does a successful DELETE request return?
+    - 204

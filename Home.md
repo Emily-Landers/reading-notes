@@ -47,3 +47,4 @@
 - [Reading 6](301/class6.md)
 - [Reading 7](301/class7.md)
 - [Reading 8](301/class8.md)
+- [Reading 9](301/class9.md)

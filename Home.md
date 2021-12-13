@@ -49,3 +49,4 @@
 - [Reading 8](301/class8.md)
 - [Reading 9](301/class9.md)
 - [Reading 10](301/class10.md)
+- [Reading 11](301/class11.md)

@@ -1,0 +1,35 @@
+# CRUD
+
+- In your own words, describe what each group of status code represents:
+    - 100’s = usually relating to the header part of a request, says that part has been received, and that the server will attempt to fulfil the request. 
+    - 200’s = client request accepted
+    - 300’s =requested resource isn't available and client will be redirected
+    - 400’s = client error codes relating to invalid requests
+    - 500’s = server error codes usually due to overwhelmed servers
+- What is a status code 202? 
+    - accepted
+- What is a status code 308?
+    - permanent redirect
+- What code would you use if an update didn’t return data to a client?
+    - 204
+- What code would you use if a resource used to exist but no longer does?
+    - 410
+- What is the ‘Forbidden’ status code?
+    - 403
+
+- Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+    - so it can be stored in a variable
+- What is middleware?
+    - software that acts as a bridge between an operating system or database and applications, especially on a network.
+- What does app.use(express.json()) do?
+    - recognizes the incoming Request Object as a body
+- What does the /:id mean in a route?
+    - it means its a parameter
+- What is the difference between PUT and PATCH?
+    - the PUT method uses the request URI to supply a modified version of the requested resource which replaces the original version of the resource, whereas the PATCH method supplies a set of instructions to modify the resource.
+- How do you make a default value in a schema?
+    - create a new document without a path set
+- What does a 500 error status code mean?
+    - internal server error
+- What is the difference between a status 200 and a status 201?
+    - the request was received and understood and is being processed.

@@ -57,6 +57,7 @@
 
 **Table of Contents**
 
+- [Pre-Class Reading](401/preClass.md)
 - [Reading 1](401/class1.md)
 - [Reading 2](401/class2.md)
 - [Reading 3](401/class3.md)

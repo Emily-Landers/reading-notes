@@ -15,11 +15,11 @@
 
     console.log(newObj);
   })
-  .catch(err => console.error(err));
+  .catch(err => console.error(err));```
 
 - ``` async function getCityData(city) {
   let results = await superagent.get('https://geocode.xyz/seattle?json=1');
-  console.log(results.body.longt, results.body.latt);
+  console.log(results.body.longt, results.body.latt);```
 }
 
 

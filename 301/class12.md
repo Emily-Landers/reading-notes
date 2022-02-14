@@ -1,20 +1,20 @@
 # CRUD
 
 - In your own words, describe what each group of status code represents:
-    - 100’s = usually relating to the header part of a request, says that part has been received, and that the server will attempt to fulfil the request. 
-    - 200’s = client request accepted
-    - 300’s =requested resource isn't available and client will be redirected
-    - 400’s = client error codes relating to invalid requests
-    - 500’s = server error codes usually due to overwhelmed servers
+    - 100's = usually relating to the header part of a request, says that part has been received, and that the server will attempt to fulfil the request. 
+    - 200's = client request accepted
+    - 300's =requested resource isn't available and client will be redirected
+    - 400's = client error codes relating to invalid requests
+    - 500's = server error codes usually due to overwhelmed servers
 - What is a status code 202? 
     - accepted
 - What is a status code 308?
     - permanent redirect
-- What code would you use if an update didn’t return data to a client?
+- What code would you use if an update didn't return data to a client?
     - 204
 - What code would you use if a resource used to exist but no longer does?
     - 410
-- What is the ‘Forbidden’ status code?
+- What is the ‘Forbidden' status code?
     - 403
 
 - Why do we need to pull our MongoDB database string out of our server and put it into our .env?

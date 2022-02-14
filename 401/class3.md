@@ -13,7 +13,7 @@
 - What can cause express to error with “Request headers sent twice, cannot start a second response”
     - When we are in the finished state, but a function tried to set a status code.
 Document the following Vocabulary Terms
-- Middleware: software that provides common services and capabilities to applications outside of what’s offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
+- Middleware: software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
 - Request Object: the main entry point for an application to issue a request to the Library
 - Response Object: a way to send output to the user from the server.
 - Application Middleware: software that provides services beyond those provided by the operating system to enable the various components of a distributed system to communicate and manage data. 

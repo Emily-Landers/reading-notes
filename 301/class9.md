@@ -13,7 +13,7 @@
 
 - What is a module?
     - a file containing related code
-- What does the word ‘require’ do?
+- What does the word ‘require' do?
     - it loads and caches JavaScript modules
 - How do we bring another module into the file the we are working in?
     - use the require function

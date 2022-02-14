@@ -1,6 +1,6 @@
 # Event Driven Architecture
 
-- What’s the difference between a FIFO and a standard queue?
+- What's the difference between a FIFO and a standard queue?
     - FIFO delivers data only one time, but will remain available until it is processed and deleted
     - in a standard queue duplicates can be introduced
 - How can the server be assured a message was properly received?

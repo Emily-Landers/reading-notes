@@ -16,7 +16,7 @@ Readings: Authentication
 
 Document the following Vocabulary Terms
 
-- Router Middleware: functions that have access to the request object ```(req)```, the response object ```(res)```, and the ```next``` middleware function in the application’s request-response cycle.
+- Router Middleware: functions that have access to the request object ```(req)```, the response object ```(res)```, and the ```next``` middleware function in the application's request-response cycle.
 - Dynamic Module Loading: Dynamic loading is a mechanism by which a computer program can, at run time, load a library (or other binary) into memory, retrieve the addresses of functions and variables contained in the library, execute those functions or access those variables, and unload the library from memory.
 - Singleton Pattern: limits the number of instances of a particular object to just one. This single instance is called the singleton. Singletons are useful in situations where system-wide actions need to be coordinated from a single central place. An example is a database connection pool.
 - CRUD -> REST Method Matches: create -> POST , read -> GET , update -> PUT and PATCH and delete -> delete.

@@ -4,7 +4,7 @@
     - authorize a user into a security-protected space.
 - What can you do with an access token?
     - make API requests on behalf of a user.
-- What’s a benefit of using OAuth instead of your own basic authentication?
+- What's a benefit of using OAuth instead of your own basic authentication?
     - It enables apps to obtain limited access (scopes) to a user's data without giving away a user's password.
 
 - Document the following Vocabulary Terms

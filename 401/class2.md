@@ -25,7 +25,7 @@ Compare and contrast Swagger and APIDoc.js
     -  a standards-based web services access protocol 
     - Originally developed by Microsoft
     - rigid set of messaging patterns
-    - The rules in ```SOAP``` are important because we can’t achieve any level of standardization without them.
+    - The rules in ```SOAP``` are important because we can't achieve any level of standardization without them.
     - Language, platform, and transport independent (REST requires use of HTTP)
     - Works well in distributed enterprise environments (REST assumes direct point-to-point communication)
     - Standardized

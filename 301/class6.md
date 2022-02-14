@@ -1,8 +1,8 @@
 # NODE.JS
 
 - What is node.js?
-    - Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
-- In your own words, what is Chrome’s V8 JavaScript Engine?
+    - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- In your own words, what is Chrome's V8 JavaScript Engine?
     - its an open source JavaScript engine that runs in chrome that gathers all your JS code from your local machine and can execute it.
 - What does it mean that node is a JavaScript runtime?
     - we can execute JS on our computers
@@ -12,7 +12,7 @@
     - 17.2.0
 - What version of npm are you running on your machine?
     -  8.2.0.
-- What command would you type to install a library/package called ‘jshint’?
+- What command would you type to install a library/package called ‘jshint'?
     - npm install -g jshint
 - What is node used for?
     - developing apps with JavaScript framework (running JS on the server)

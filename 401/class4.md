@@ -10,7 +10,7 @@
     - We need the ```afterEach()``` method to rest the database after running the test, while the ```beforeEach()``` is called before the test runs.
 - What is one downside of Test Driven Development
     - Not running tests frequently enough, writing tests that are too large, writing too many tests at once.
-- What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
+- What's the primary difference between ES6 Classes and Constructor/Prototype Classes?
     - a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance.
 - Why REST?
     - One of the key advantages of REST APIs is that they provide a great deal of flexibility. Data is not tied to resources or methods, so REST can handle multiple types of calls, return different data formats and even change structurally with the correct implementation of hypermedia.

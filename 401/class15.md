@@ -1,6 +1,6 @@
 # Trees
 
-- Node: A Tree node is a component which may contain it’s own values, and references to other nodes
+- Node: A Tree node is a component which may contain it's own values, and references to other nodes
 - Root: The root is the node at the beginning of the tree
 - K: A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
 - Left: A reference to one child node, in a binary tree

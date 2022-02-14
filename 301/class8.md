@@ -12,7 +12,7 @@
     - nouns (the resource)
 - Give an example of a good URI.
     - ```https://adventure-works.com/orders ```
-- What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+- What does it mean to have a ‘chatty' web API? Is this a good or a bad thing?
     - Chatty APIs have a lot of requests at any given time, its a bad thing.
 - What status code does a successful GET request return?
     - 200

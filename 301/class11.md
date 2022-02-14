@@ -34,7 +34,7 @@
     - a database structured to recognize relations among stored items of information.
 - What type of structure does a relational database work with?
     - tables
-- What is a ‘schema’?
+- What is a ‘schema'?
     - abstract design that represents the storage of your data in a database
 - What is a NoSQL database?
     - non-tabular databases

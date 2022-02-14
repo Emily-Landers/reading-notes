@@ -39,7 +39,7 @@
 - As much as 70% of our time should be spent in steps 1-3.
 - Cut larger problems in half as a kind of divide and conquer tactic. (try to figure out what part of the problem if given to you would make it easier, and divide it from there).
 
-## Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive
+## Pretend Your Time is Worth $1,000/Hour and You'll Become 100x More Productive
 
 - Always be methodical in your time management planning.
 - Busyness is indicative of poor planning and lack of discipline.

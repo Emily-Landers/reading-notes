@@ -17,7 +17,7 @@ Document the following Vocabulary
 - Containers: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - Cloud Services: a wide range of services delivered on demand to companies and customers over the internet.
 - Cloud Architecture: refers to the various components in terms of databases, software capabilities, applications, etc.
-- AWS: Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally.
+- AWS: Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally.
 - EC2/Beanstalk vs Heroku: AWS Elastic Beanstalk is the only comparable way to run workloads in AWS; it, however, is the one that most closely resembles Heroku.
 
 - Which 3 things had you heard about previously and now have better clarity on?

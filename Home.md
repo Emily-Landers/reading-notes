@@ -53,7 +53,7 @@
 - [Reading 12](301/class12.md)
 - [Reading 13](301/class13.md)
 
-## Code 401 Reading Notes
+## JavaScript 401 Reading Notes
 
 **Table of Contents**
 
@@ -101,3 +101,54 @@
 - [Reading 41](401/class41.md)
 - [Reading 42](401/class42.md)
 - [Reading 43](401/class43.md)
+
+## Python 401 Reading Notes
+
+**Table of Contents**
+
+- [Pre-Class Reading (SQL)](Python401/SQL.md)
+- [Pre-Class Reading (CLI)](Python401/CLI.md)
+- [Pre-Class Reading (Mindset)](Python401/mindset.md)
+- [Reading 1](Python401/class1.md)
+- [Reading 2](Python401/class2.md)
+- [Reading 3](4Python01/class3.md)
+- [Reading 4](Python401/class4.md)
+- [Reading 5](Python401/class5.md)
+- [Reading 6](Python401/class6.md)
+- [Reading 7](Python401/class7.md)
+- [Reading 8](Python401/class8.md)
+- [Reading 9](Python401/class9.md)
+- [Reading 10](Python401/class10.md)
+- [Reading 11](Python401/class11.md)
+- [Reading 12](Python401/class12.md)
+- [Reading 13](Python401/class13.md)
+- [Reading 14](Python401/class14.md)
+- [Reading 15](Python401/class15.md)
+- [Reading 16](Python401/class16.md)
+- [Reading 17](Python401/class17.md)
+- [Reading 18](Python401/class18.md)
+- [Reading 19](Python401/class19.md)
+- [Reading 20](Python401/class20.md)
+- [Reading 21](Python401/class21.md)
+- [Reading 22](Python401/class22.md)
+- [Reading 23](Python401/class23.md)
+- [Reading 24](Python401/class24.md)
+- [Reading 25](Python401/class25.md)
+- [Reading 26](Python401/class26.md)
+- [Reading 27](Python401/class27.md)
+- [Reading 28](Python401/class28.md)
+- [Reading 29](Python401/class29.md)
+- [Reading 30](Python401/class30.md)
+- [Reading 31](Python401/class31.md)
+- [Reading 32](Python401/class32.md)
+- [Reading 33](Python401/class33.md)
+- [Reading 34](Python401/class34.md)
+- [Reading 35](Python401/class35.md)
+- [Reading 36](Python401/class36.md)
+- [Reading 37](Python401/class37.md)
+- [Reading 38](Python401/class38.md)
+- [Reading 39](Python401/class39.md)
+- [Reading 40](Python401/class40.md)
+- [Reading 41](Python401/class41.md)
+- [Reading 42](Python401/class42.md)
+- [Reading 43](Python401/class43.md)

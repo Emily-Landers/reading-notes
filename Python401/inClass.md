@@ -38,4 +38,46 @@ from file to module (function name)
 
 # FileIO / Exceptions
 
-- 
+- TS: 1:45 - unpacking lists in different ways
+>>> my_list = [1,2,3]
+>>> print(my_list)
+[1,2,3]
+>>> print(1,2,3)
+1,2,3
+>>> print(*my_list)
+1,2,3
+>>> my_string = "hi_from {}"
+>>> my_string
+'Hi from {}'
+>>> my_string.format("Ella")
+'Hi from Ella"
+>>> my_other_string = "Hi from {} and {}"
+>>> my_other_string.format("Ella", "james")
+'Hi from Ella and James'
+
+- TS: 1:57 - Tuples cant be changed, but they can be unpacked
+
+- TS: 2:18 - [Jupyter notebook](https://github.com/codefellows/seattle-python-401d18/blob/main/class-03/demo/file-io/file_io.ipynb) Mix MD and python
+
+- TS: 2:26 - print file.closed to see if a file is open or closed
+
+- TS: 2:28 - use ```help(what you want help with)``` to see docs on something use ```dir(thing)``` will give you the attributes and built in methods available for thing
+
+- TS: 2:30 - modes are:
+    - ```r``` for read
+    - ```w``` for write
+    - ```a``` for append
+    - ```rb``` for read binary (non text files)
+    - ``wb`` for read binary
+- use ```help()``` to see more
+
+- TS: 2:42 Exceptions beginning
+
+- TS: 2:46 - exception handling using ```try/except``` code block
+    - be sure to specify the error when handling (```ZeroDivisionError```, ```TypeError```, etc...)
+    - ```except Exception as e``` can be used to get more info so you can account for all errors (```print(e)```)
+    - an ```else``` block will run if some exception doesnt happen 
+    - ```finally``` will run no matter what happens
+    - generic exceptions should be used if no better options exist ```raise Exception('something went wrong')```
+
+- TS: 2:55 -  you can also create your own exception

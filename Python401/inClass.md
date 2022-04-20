@@ -1,8 +1,17 @@
-# Test Driven Development Lecture
+# Virtual Environment Setup
+
+- TS: 2:03 EST - create a virtual environment terminal command = python3 -m venv .venv (last part is the name) put in current project folder in terminal ls -a shows hidden files rm -rf .venv to delete.
+
+- TS: 2:08 EST - activate virtual environment command = source .venv/bin/activate. (make sure you see an (.venv) arrow after activating, if no arrow its not active) type deactivate to stop in terminal.
+
+- TS: 2:58 python snakes_cafe.py to run
+-----------------------
+
+# Test Driven Development
 
 - TS: 2:16 - pytest is what we use to run tests. type 'pytest' into terminal to run.
 
-- TS: 2:20 - Make a folder for tests and then a file, it should look like this: tests/test_fizz_buzz.py then an init file that looks like this: tests/__init__.py. remember to create and activate your virtual environment after this. 
+- TS: 2:20 - Make a folder for tests and then a file, it should look like this: tests/test_fizz_buzz.py then an init file that looks like this: tests/__init__.py. remember to create and activate your virtual environment after this.
 
 - TS: 2:22 - pytest is not built in and needs to be installed using pip. Command is "pip install pytest"
 
@@ -26,3 +35,7 @@ from file to module (function name)
 **computerphile video on recursion**
 
 -------------------------------------
+
+# FileIO / Exceptions
+
+- 

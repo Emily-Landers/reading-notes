@@ -106,6 +106,7 @@
 
 **Table of Contents**
 
+- [In Class Lecture Notes](python401/inClass.md)
 - [Pre-Class Reading (SQL)](Python401/SQL.md)
 - [Pre-Class Reading (CLI)](Python401/CLI.md)
 - [Pre-Class Reading (Mindset)](Python401/mindset.md)

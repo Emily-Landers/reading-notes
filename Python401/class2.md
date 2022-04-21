@@ -9,11 +9,10 @@
     - a file called ```gender.py``` should have a corresponding ```test_gender.py```
 - Ex:
 
-    ``` def test_should_return_female_when_the_name_is_from_female_gender():
+``     def test_should_return_female_when_the_name_is_from_female_gender():
     detector = GenderDetector()
     expected_gender = detector.run(‘Ana’)
-    assert expected_gender == ‘female’
-
+    assert expected_gender == ‘female’``
 - The example should return 'female' when the name is from a female
 - Testing structure is important. Try to use the "Arrange, Act, and Assert" method when writing tests.
     - Arrange: figure out how you want to write your tests (The input)

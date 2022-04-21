@@ -81,3 +81,44 @@ from file to module (function name)
     - generic exceptions should be used if no better options exist ```raise Exception('something went wrong')```
 
 - TS: 2:55 -  you can also create your own exception
+
+--------------
+
+# Classes
+
+- TS: 1:20 pytest -watch will auto refresh so you don't have to keep typing pytest. then for vscode install black, flake (after looking it up it seems like these just auto- commit?) ptw is pytest-watch shortcut
+- TS: 1:39 - tuples usually have parenthesis around them 
+- TS: 2:08 - if __name == "__main__" will make sure that only the code above it will be read 
+- TS: 2:32 starts lecture
+- TS: 2:38 dunder init method is like a JS New self = this
+
+~~~
+class Boxer: 
+def __init__(self, name = "unknown"):
+self.name = "name"
+~~~
+
+- TS 2:42 - to make an attribute optional ```(variable = " ")```
+- TS 2:44 - to pass down inheritance from other classes put the parent class in parenthesis after the class name
+
+~~~ 
+class Dog:
+pass
+
+class Boxer(Dog):
+pass
+~~~
+
+- TS: 2:46 - to assign methods to a class 
+
+~~~
+class Boxer: 
+def __init__(self):
+self.name = "unknown"
+
+def greet(self):
+return f"The names {self.name}."
+~~~
+
+- TS: 2:54 - children of classes can access their methods and attributes
+- TS: 2:

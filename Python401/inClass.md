@@ -121,4 +121,13 @@ return f"The names {self.name}."
 ~~~
 
 - TS: 2:54 - children of classes can access their methods and attributes
-- TS: 2:
+
+-------------------------------------
+
+# Ten Thousand Game
+
+- TS: 2:51 - you can import a counter module that will keep all your data in a dictionary with the counts along with many other things (great for keeping track of game scores)
+- [Python Module of the Week](https://pymotw.com/3/)
+- TS: 2:57 - import random module to do "rnadom stuff" in python
+
+--------------------------

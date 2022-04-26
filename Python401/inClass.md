@@ -128,6 +128,19 @@ return f"The names {self.name}."
 
 - TS: 2:51 - you can import a counter module that will keep all your data in a dictionary with the counts along with many other things (great for keeping track of game scores)
 - [Python Module of the Week](https://pymotw.com/3/)
-- TS: 2:57 - import random module to do "rnadom stuff" in python
+- TS: 2:57 - import random module to do "random stuff" in python
 
 --------------------------
+
+# Testing IO
+
+- TS: 2:16 - **start**
+- TS: 2:19 - keyword arguments allow us to change the answer to questions
+- TS: 2:20 - Text file to change answers in multiple instances (name.sim.txt)
+- TS: 2:23 - how to automate your sim (library code to use)
+- TS: 2:29 - Sub directories in your tests need __init__.py
+- TS: 2:35 - python -m testing_io.riddler to run as a module
+- TS: 2:46 - handle randomizaion in these tests
+- TS: 2:54 - file tree
+
+----------------

@@ -144,3 +144,9 @@ return f"The names {self.name}."
 - TS: 2:54 - file tree
 
 ----------------
+
+# Class 8
+
+- .ini indicates some kind of initialization 
+- cls is always the first arg in a class method
+- if it doesnt need access to self make it a static method

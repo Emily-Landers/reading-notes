@@ -1,8 +1,8 @@
 # Reading Notes
 
-**This is where I will keep my notes for class**
-
 **Table of Contents**
+
+## Code 102 Reading Notes
 
 - [Readme](README.md) 
 - [Reading 1](102/markdown.md) 
@@ -77,30 +77,7 @@
 - [Reading 17](401/class17.md)
 - [Reading 18](401/class18.md)
 - [Reading 19](401/class19.md)
-- [Reading 20](401/class20.md)
-- [Reading 21](401/class21.md)
-- [Reading 22](401/class22.md)
-- [Reading 23](401/class23.md)
-- [Reading 24](401/class24.md)
-- [Reading 25](401/class25.md)
 - [Reading 26](401/class26.md)
-- [Reading 27](401/class27.md)
-- [Reading 28](401/class28.md)
-- [Reading 29](401/class29.md)
-- [Reading 30](401/class30.md)
-- [Reading 31](401/class31.md)
-- [Reading 32](401/class32.md)
-- [Reading 33](401/class33.md)
-- [Reading 34](401/class34.md)
-- [Reading 35](401/class35.md)
-- [Reading 36](401/class36.md)
-- [Reading 37](401/class37.md)
-- [Reading 38](401/class38.md)
-- [Reading 39](401/class39.md)
-- [Reading 40](401/class40.md)
-- [Reading 41](401/class41.md)
-- [Reading 42](401/class42.md)
-- [Reading 43](401/class43.md)
 
 ## Python 401 Reading Notes
 

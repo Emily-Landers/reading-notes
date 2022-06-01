@@ -14,6 +14,6 @@
 
 ### Growth Mindset
 
-**Think in terms of bettering yourself,s ee failure as an opportunity to learn and grow.**
+**Think in terms of bettering yourself, see failure as an opportunity to learn and grow.**
 
 ### [Markdown Notes](https://emily-landers.github.io/reading-notes/markdown)

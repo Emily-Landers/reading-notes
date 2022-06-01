@@ -150,3 +150,38 @@ return f"The names {self.name}."
 - .ini indicates some kind of initialization 
 - cls is always the first arg in a class method
 - if it doesnt need access to self make it a static method
+
+
+- TS: 2:20 - vercel setup 
+    - ```vercel dev``` command to run (like nodemon)
+    - ```localhost3000/api/modulename```
+    - ```.encode()``` at end of string if "bytes like" is required
+- TS: 2:30 - query parameters ```localhost3000/api/modulename?name=Ben```
+    - ```from urllib import parse``` will allow you to get data from user
+    - ```url_components = parse.urlsplit(path)```
+    - ```query_string_list = parse.parse_qsl(url_components.query)``` will give tuple with param and value
+TS: 2:37 - converting query tuple to a dictionary and adding conditional logic
+
+---------
+
+- TS: 1:44 - Add method explanation
+
+---------
+
+1:20 django setup - 1:28
+`settings.py` if you want to change something like using sql
+django will set you up a project composed with apps
+1:33 django create an app run server
+`python manage.py runserver`
+gives localhost
+"the install worked successfully"
+`python manage.py migrate` -gets rid of errors and applies default behavior 
+run server again will show no warnings
+`python manage.py startapp names` *name app plural*
+`tree` to check file tree and see your created app
+`models.py` allows you to interact with the database directly using *object relational mapper* or ORM objects meaning python classes 
+`view.py` controls rendering of webpage or representation of some part of your app - code responsible for presenting slice of relevant information 
+installed apps in project migrations and add under:
+`#local`
+`'things',`
+this tells django about your app
